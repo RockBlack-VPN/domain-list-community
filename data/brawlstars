@@ -1,6 +1,7 @@
 # BrawlStars
-game.brawlstarsgame.com
-*ingest.sentry.io
+
+full:game.brawlstarsgame.com
+o315582.ingest.sentry.io
 game-assets.clashofclans.com
 gamea.clashofclans.com
 clashofclans.inbox.supercell.com
@@ -15,7 +16,7 @@ id.supercell.com
 security.id.supercell.com
 
 # HayDay
-o315582.ingest.sentry.io
+
 cdn.id.supercell.com
 aggregator.service.usercentrics.eu
 game.haydaygame.com
