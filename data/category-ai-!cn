@@ -1,22 +1,23 @@
 include:anthropic
-include:google-gemini
+include:cursor
+include:google-deepmind
 include:groq
 include:huggingface
 include:openai
 include:perplexity
 include:poe
 include:xai
-include:cursor
+
+# CodeRabbit
+coderabbit.ai
+coderabbit.gallery.vsassets.io
 
 # Jasper
 clipdrop.co
 jasper.ai
 
-# NotebookLM
-notebooklm.google
-notebooklm.google.com
-
 chutes.ai
+copilot.microsoft.com
 dify.ai
 gateway.ai.cloudflare.com
 meta.ai

@@ -1,5 +1,8 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+include:category-games-!cn
+include:category-novel
+
 include:abema
 include:amc
 include:anime
@@ -11,8 +14,7 @@ include:bandcamp
 include:bangumi
 include:boomerang
 include:catchplay
-include:category-games
-include:category-novel
+include:copymanga
 include:dailymotion
 include:dandanzan
 include:dazn
@@ -39,6 +41,7 @@ include:mudvod
 include:mytvsuper
 include:netflix
 include:niconico
+include:now
 include:olevod
 include:pbs
 include:pixiv
@@ -62,6 +65,7 @@ include:vimeo
 include:visualarts
 include:viu
 include:volmoe
+include:wallhaven
 include:webnovel
 include:wwe
 include:youtube
